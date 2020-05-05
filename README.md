@@ -5,7 +5,7 @@ Proteus ARES is not that common EDA tool, especially ARES 7.x (that lacks any bu
 
 This tool allows to convert simple "TH/SMT pins & polyline graphics" footprints from PADS PowerPCB format (which is popular, for example, at componentsearchengine.com) to ARES Region format.
 
-Since it's still under development (though it helps me on a regular basis), so I've not implemented any interface yet. You are supposed to specify file locations in Main(...).
+Since it's still under development (though it helps me on a regular basis), I've not implemented any interface yet. You are supposed to specify file locations in Main(...).
 
 Todo:
  - Commandline interface
